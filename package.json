@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "faker": "^7.0.0",
-    "chance": "^1.1.7"
+    "chance": "^1.1.7",
+    "give-password-utils": "1.0.0",
+    "image-utils-pose": "1.0.0",
+    "lapuhovlamel-image-utils": "1.1.4",
+    "kamidpavil-password-utils": "1.1.4",
+    "curryd224-uuid-utils": "1.1.4",
   },
   "author": "",
   "license": "ISC",
